@@ -2,7 +2,7 @@
 ### Analysis of the Real-Time Strategy (RTS) Computer Center
 
 #### Overview:
-The RTS Computer Center script, likely written in C#, is designed to manage various aspects of a real-time strategy game. The script would typically handle tasks such as resource management, unit production, base building, and possibly AI for enemy behavior. Below is a markdown analysis that breaks down the potential components and functionalities of this script.
+The RTS Computer Center script, likely written in json, is designed to manage various aspects of a real-time strategy game. The script would typically handle tasks such as resource management, unit production, base building, and possibly AI for enemy behavior. Below is a markdown analysis that breaks down the potential components and functionalities of this script.
 
 #### Key Components:
 
